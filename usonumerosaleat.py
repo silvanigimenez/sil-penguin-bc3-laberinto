@@ -30,7 +30,6 @@ print(ganar)                                #imprimir el ganador
 
 
 
-    
 
 
  
